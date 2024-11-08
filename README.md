@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm mohammad maualana ikhsan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="center">hello world, I'm mohammad maualana ikhsan</h1>
+<h3 align="center">lets connect with me in github</h3>
 
 - 💬 Ask me about **c++, react, java, javascript**
 
