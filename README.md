@@ -56,10 +56,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ikhsan-kun/ikhsan-kun/output/snake.svg" alt="Snake animation" />
-
-###
