@@ -1,9 +1,5 @@
 <h2 align="left">Hi 👋! My name is Mohammad Maulana Ikhsan and I'm a Backend Developer</h2>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ikhsan-kun&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
-
 ###
 
 <div align="left">
@@ -15,11 +11,9 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
-<h3 align="left">🛠 Tools & Tech Stack:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -67,14 +61,12 @@
 
 ###
 
-<h3 align="left">🌐 Connect with me:</h3>
-
 <div align="left">
   <a href="https://www.instagram.com/ikhsann.kun/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://linkedin.com/in/mohammad-maulana-ikhsan-6a5266251" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="linkedin.com/in/mohammad-maulana-ikhsan-6a5266251" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -83,3 +75,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ikhsan-kun/ikhsan-kun/output/snake.svg" alt="Snake animation" />
+
+### edit file md github saya tmbhkan berapa yang lihat profil saya, tmbhkan tools yang saya gunakan seperti laravel, mongodb, express, c++, postgreesql, dan supabase
