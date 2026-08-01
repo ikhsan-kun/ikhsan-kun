@@ -1,78 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Mohammad%20Maulana%20Ikhsan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Express%20%C2%B7%20Go%20%C2%B7%20NestJS&descAlignY=56&descSize=18" width="100%" alt="header banner" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer;Express+%C2%B7+Go+%C2%B7+NestJS+%C2%B7+PostgreSQL;Building+scalable+%26+reliable+APIs;Always+shipping+something+new" alt="typing animation" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ikhsan-kun&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views" />
-<a href="https://wakatime.com/@c59fb86b-9618-422e-b12f-b5596de5e9a8"><img src="https://wakatime.com/badge/user/c59fb86b-9618-422e-b12f-b5596de5e9a8.svg?style=for-the-badge&color=8A2BE2" alt="WakaTime Badge" /></a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:4F46E5&height=180&section=header&text=Ikhsan&fontSize=70&fontColor=ffffff&animation=twinkling&stroke=8B5CF6" width="100%" alt="header" />
 
 </div>
 
-<br/>
+### `> whoami`
 
-```bash
-$ whoami
-> Mohammad Maulana Ikhsan
+Hey! I'm **Mohammad Maulana Ikhsan**, a backend developer from Indonesia 
 
-$ role
-> Backend Developer
 
-$ status
-> Building clean, scalable, and reliable backend systems
-
-$ stack --core
-> Express · NestJS · Go · Prisma · Supabase · MongoDB · PostgreSQL
-```
+Besides backend, I also enjoy tinkering with **machine learning**, **frontend**, and **embedded systems** (IoT).
 
 <br/>
-
-<h2 align="center">Tech Stack</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,go,rust,js,py,php&theme=dark&perline=6" alt="languages" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,laravel&theme=dark&perline=6" alt="backend frameworks" />
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,webpack&theme=dark&perline=6" alt="frontend" />
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,supabase&theme=dark&perline=6" alt="database and infra" />
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,postman&theme=dark&perline=6" alt="ml and tools" />
+<a href="https://wakatime.com/@c59fb86b-9618-422e-b12f-b5596de5e9a8"><img src="https://wakatime.com/badge/user/c59fb86b-9618-422e-b12f-b5596de5e9a8.svg?style=flat-square" alt="wakatime" /></a>
+<img src="https://komarev.com/ghpvc/?username=ikhsan-kun&style=flat-square&color=8B5CF6" alt="views" />
+</div>
 
+---
+
+### `> stack`
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=fff)
+
+</div>
+
+---
+
+### `> git stats`
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ikhsan-kun&theme=tokyonight&hide_border=true&border_radius=10&background=1A1B27&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=A78BFA&dates=6B7280" height="190" alt="streak" />
 </div>
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ikhsan-kun&locale=en&mode=daily&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="streak graph" />
-</div>
-</div>
-<br/>
-
-<h2 align="center">✍️ Random Dev Quote</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ikhsan-kun&show_icons=true&hide_border=true&border_radius=10&bg_color=1A1B27&title_color=8B5CF6&text_color=C9D1D9&icon_color=A78BFA&ring_color=8B5CF6&rank_icon=percentile" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ikhsan-kun&show_icons=true&hide_border=true&border_radius=10&title_color=8B5CF6&icon_color=A78BFA&ring_color=8B5CF6&rank_icon=percentile" />
+   
+  </picture>
 </div>
 
-<br/>
+---
 
-<h2 align="center">🌐 Connect with Me</h2>
+### `> socials`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohammadmaulanaikhsan9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/mohammadmaulanaikhsan9">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/ikhsann.kun/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  &nbsp;
+  <a href="https://www.instagram.com/ikhsann.kun/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://wakatime.com/@c59fb86b-9618-422e-b12f-b5596de5e9a8">
+    <img src="https://img.shields.io/badge/-WakaTime-000?style=for-the-badge&logo=wakatime&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ikhsan-kun/ikhsan-kun/output/snake.svg" alt="snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/ikhsan-kun/ikhsan-kun/output/snake.svg" alt="snake" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:4F46E5&height=120&section=footer&stroke=8B5CF6" width="100%" alt="footer" />
